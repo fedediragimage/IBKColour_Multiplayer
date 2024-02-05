@@ -3,4 +3,4 @@ It is a multiplier node of IBKColour for IBKGizmo. It makes your script visually
 
 ---
 
-If you want more Gizmos or infos about me check my personal website here: fededirag.altervista.org
+If you want more Gizmos or info about me, check my website [here](fededirag.altervista.org)
